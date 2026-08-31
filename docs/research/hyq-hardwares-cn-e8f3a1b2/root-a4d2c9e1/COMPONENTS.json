@@ -1,0 +1,128 @@
+{
+  "desktop": {
+    "header": {
+      "html": "<header id=\"header\">\n        <a class=\"mm-hbtn\" style=\"\" name=\"a8249\">\n    <div class=\"lcbody lcbody3 lcitem \" onclick=\"thisshowMobileNavFloatLayer(this)\">\n        <span class=\"rect top\"></span>\n        <span class=\"rect center\"></span>\n        <span class=\"rect bottom\"></span>\n    </div>\n</a>\n\n        <div class=\"navcontent\">\n                        <!-- logo -->\n                        <p onclick=\"gohome()\">天津市浩越全五金制品股份有限公司</p>\n                                    <!-- 搜索 -->\n                  ",
+      "classes": "",
+      "children": 2
+    },
+    "navigation": {
+      "html": "<nav class=\"micro-nav-item\">\n                <ul id=\"accordion\">\n                                                                <li style=\"animation-delay: 0s;\">\n                            <a href=\"/\" target=\"_self\">\n                                <p>首页</p>\n                            </a>\n                        </li>\n                                            <li style=\"animation-delay: 0.1s;\">\n                            <a href=\"/Content/374366.html\" target=\"_self\">\n                     ",
+      "classes": "micro-nav-item",
+      "links": [
+        "首页",
+        "关于我们",
+        "产品展示",
+        "新闻中心",
+        "联系我们"
+      ]
+    },
+    "buttons": [],
+    "sections": [
+      {
+        "tag": "ARTICLE",
+        "classes": "ModuleMobileNavGiant layout-104 mobileNav-423284707",
+        "children": 4
+      },
+      {
+        "tag": "SECTION",
+        "classes": "containers  ",
+        "children": 5
+      },
+      {
+        "tag": "SECTION",
+        "classes": "mobileNav mobileNav_1 black",
+        "children": 1
+      },
+      {
+        "tag": "SECTION",
+        "classes": "mobileNavFloatLayer mobileNavFloatLayer_1 black itemType0",
+        "children": 1
+      }
+    ],
+    "forms": []
+  },
+  "tablet": {
+    "header": {
+      "html": "<header id=\"header\">\n        <a class=\"mm-hbtn\" style=\"\" name=\"a3150\">\n    <div class=\"lcbody lcbody3 lcitem \" onclick=\"thisshowMobileNavFloatLayer(this)\">\n        <span class=\"rect top\"></span>\n        <span class=\"rect center\"></span>\n        <span class=\"rect bottom\"></span>\n    </div>\n</a>\n\n        <div class=\"navcontent\">\n                        <!-- logo -->\n                        <p onclick=\"gohome()\">天津市浩越全五金制品股份有限公司</p>\n                                    <!-- 搜索 -->\n                  ",
+      "classes": "",
+      "children": 2
+    },
+    "navigation": {
+      "html": "<nav class=\"micro-nav-item\">\n                <ul id=\"accordion\">\n                                                                <li style=\"animation-delay: 0s;\">\n                            <a href=\"/\" target=\"_self\">\n                                <p>首页</p>\n                            </a>\n                        </li>\n                                            <li style=\"animation-delay: 0.1s;\">\n                            <a href=\"/Content/374366.html\" target=\"_self\">\n                     ",
+      "classes": "micro-nav-item",
+      "links": [
+        "首页",
+        "关于我们",
+        "产品展示",
+        "新闻中心",
+        "联系我们"
+      ]
+    },
+    "buttons": [],
+    "sections": [
+      {
+        "tag": "ARTICLE",
+        "classes": "ModuleMobileNavGiant layout-104 mobileNav-423284707",
+        "children": 4
+      },
+      {
+        "tag": "SECTION",
+        "classes": "containers  ",
+        "children": 5
+      },
+      {
+        "tag": "SECTION",
+        "classes": "mobileNav mobileNav_1 black",
+        "children": 1
+      },
+      {
+        "tag": "SECTION",
+        "classes": "mobileNavFloatLayer mobileNavFloatLayer_1 black itemType0",
+        "children": 1
+      }
+    ],
+    "forms": []
+  },
+  "mobile": {
+    "header": {
+      "html": "<header id=\"header\">\n        <a class=\"mm-hbtn\" style=\"\" name=\"a1953\">\n    <div class=\"lcbody lcbody3 lcitem \" onclick=\"thisshowMobileNavFloatLayer(this)\">\n        <span class=\"rect top\"></span>\n        <span class=\"rect center\"></span>\n        <span class=\"rect bottom\"></span>\n    </div>\n</a>\n\n        <div class=\"navcontent\">\n                        <!-- logo -->\n                        <p onclick=\"gohome()\">天津市浩越全五金制品股份有限公司</p>\n                                    <!-- 搜索 -->\n                  ",
+      "classes": "",
+      "children": 2
+    },
+    "navigation": {
+      "html": "<nav class=\"micro-nav-item\">\n                <ul id=\"accordion\" style=\"height: 844px;\">\n                                                                <li style=\"animation-delay: 0s;\">\n                            <a href=\"/\" target=\"_self\">\n                                <p>首页</p>\n                            </a>\n                        </li>\n                                            <li style=\"animation-delay: 0.1s;\">\n                            <a href=\"/Content/374366.html\" target=\"_self\"",
+      "classes": "micro-nav-item",
+      "links": [
+        "首页",
+        "关于我们",
+        "产品展示",
+        "新闻中心",
+        "联系我们"
+      ]
+    },
+    "buttons": [],
+    "sections": [
+      {
+        "tag": "ARTICLE",
+        "classes": "ModuleMobileNavGiant layout-104 mobileNav-423284707",
+        "children": 4
+      },
+      {
+        "tag": "SECTION",
+        "classes": "containers  ",
+        "children": 5
+      },
+      {
+        "tag": "SECTION",
+        "classes": "mobileNav mobileNav_1 black",
+        "children": 1
+      },
+      {
+        "tag": "SECTION",
+        "classes": "mobileNavFloatLayer mobileNavFloatLayer_1 black itemType0",
+        "children": 1
+      }
+    ],
+    "forms": []
+  }
+}

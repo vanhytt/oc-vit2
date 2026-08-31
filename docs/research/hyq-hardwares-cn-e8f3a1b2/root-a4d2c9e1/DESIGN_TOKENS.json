@@ -1,0 +1,173 @@
+{
+  "desktop": {
+    "colors": {
+      "observed": [
+        "bg: rgb(255, 255, 255)",
+        "text: rgb(51, 51, 51)",
+        "border: rgb(51, 51, 51)",
+        "bg: rgb(219, 189, 125)",
+        "text: rgb(255, 255, 255)",
+        "border: rgb(255, 255, 255)",
+        "bg: rgb(51, 51, 51)",
+        "text: rgb(207, 207, 207)",
+        "border: rgb(207, 207, 207)",
+        "text: rgb(218, 179, 127)",
+        "border: rgb(218, 179, 127)",
+        "border: rgb(51, 51, 51) rgb(51, 51, 51) rgb(230, 230, 230)",
+        "text: rgb(102, 102, 102)",
+        "border: rgb(102, 102, 102)",
+        "text: rgb(219, 189, 125)",
+        "border: rgb(219, 189, 125)",
+        "text: rgb(153, 153, 153)",
+        "border: rgb(153, 153, 153)",
+        "bg: rgb(63, 203, 64)"
+      ]
+    },
+    "typography": {
+      "14px": {
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, Tahoma, \"Microsoft YaHei\", \"PingFang SC\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontWeight": "400"
+      },
+      "16px": {
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, Tahoma, \"Microsoft YaHei\", \"PingFang SC\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontWeight": "400"
+      },
+      "15px": {
+        "fontFamily": "微软雅黑, \"Microsoft YaHei\"",
+        "fontWeight": "400"
+      },
+      "12px": {
+        "fontFamily": "微软雅黑, \"Microsoft YaHei\"",
+        "fontWeight": "400"
+      },
+      "18px": {
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, Tahoma, \"Microsoft YaHei\", \"PingFang SC\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontWeight": "400"
+      },
+      "families": [
+        "\"Helvetica Neue\", Helvetica, Arial, Tahoma, \"Microsoft YaHei\", \"PingFang SC\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "微软雅黑, \"Microsoft YaHei\""
+      ]
+    },
+    "spacing": {},
+    "borderRadius": {
+      "50%": true,
+      "28px": true
+    },
+    "shadows": {}
+  },
+  "tablet": {
+    "colors": {
+      "observed": [
+        "bg: rgb(255, 255, 255)",
+        "text: rgb(51, 51, 51)",
+        "border: rgb(51, 51, 51)",
+        "bg: rgb(219, 189, 125)",
+        "text: rgb(255, 255, 255)",
+        "border: rgb(255, 255, 255)",
+        "bg: rgb(51, 51, 51)",
+        "text: rgb(207, 207, 207)",
+        "border: rgb(207, 207, 207)",
+        "text: rgb(218, 179, 127)",
+        "border: rgb(218, 179, 127)",
+        "border: rgb(51, 51, 51) rgb(51, 51, 51) rgb(230, 230, 230)",
+        "text: rgb(102, 102, 102)",
+        "border: rgb(102, 102, 102)",
+        "text: rgb(219, 189, 125)",
+        "border: rgb(219, 189, 125)",
+        "text: rgb(153, 153, 153)",
+        "border: rgb(153, 153, 153)",
+        "bg: rgb(63, 203, 64)"
+      ]
+    },
+    "typography": {
+      "14px": {
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, Tahoma, \"Microsoft YaHei\", \"PingFang SC\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontWeight": "400"
+      },
+      "16px": {
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, Tahoma, \"Microsoft YaHei\", \"PingFang SC\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontWeight": "400"
+      },
+      "15px": {
+        "fontFamily": "微软雅黑, \"Microsoft YaHei\"",
+        "fontWeight": "400"
+      },
+      "12px": {
+        "fontFamily": "微软雅黑, \"Microsoft YaHei\"",
+        "fontWeight": "400"
+      },
+      "18px": {
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, Tahoma, \"Microsoft YaHei\", \"PingFang SC\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontWeight": "400"
+      },
+      "families": [
+        "\"Helvetica Neue\", Helvetica, Arial, Tahoma, \"Microsoft YaHei\", \"PingFang SC\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "微软雅黑, \"Microsoft YaHei\""
+      ]
+    },
+    "spacing": {},
+    "borderRadius": {
+      "50%": true,
+      "28px": true
+    },
+    "shadows": {}
+  },
+  "mobile": {
+    "colors": {
+      "observed": [
+        "bg: rgb(255, 255, 255)",
+        "text: rgb(51, 51, 51)",
+        "border: rgb(51, 51, 51)",
+        "bg: rgb(219, 189, 125)",
+        "text: rgb(255, 255, 255)",
+        "border: rgb(255, 255, 255)",
+        "bg: rgb(51, 51, 51)",
+        "text: rgb(207, 207, 207)",
+        "border: rgb(207, 207, 207)",
+        "text: rgb(218, 179, 127)",
+        "border: rgb(218, 179, 127)",
+        "border: rgb(51, 51, 51) rgb(51, 51, 51) rgb(230, 230, 230)",
+        "text: rgb(102, 102, 102)",
+        "border: rgb(102, 102, 102)",
+        "text: rgb(219, 189, 125)",
+        "border: rgb(219, 189, 125)",
+        "text: rgb(153, 153, 153)",
+        "border: rgb(153, 153, 153)",
+        "bg: rgb(63, 203, 64)"
+      ]
+    },
+    "typography": {
+      "14px": {
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, Tahoma, \"Microsoft YaHei\", \"PingFang SC\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontWeight": "400"
+      },
+      "16px": {
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, Tahoma, \"Microsoft YaHei\", \"PingFang SC\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontWeight": "400"
+      },
+      "15px": {
+        "fontFamily": "微软雅黑, \"Microsoft YaHei\"",
+        "fontWeight": "400"
+      },
+      "12px": {
+        "fontFamily": "微软雅黑, \"Microsoft YaHei\"",
+        "fontWeight": "400"
+      },
+      "18px": {
+        "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, Tahoma, \"Microsoft YaHei\", \"PingFang SC\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "fontWeight": "400"
+      },
+      "families": [
+        "\"Helvetica Neue\", Helvetica, Arial, Tahoma, \"Microsoft YaHei\", \"PingFang SC\", \"Hiragino Sans GB\", \"Heiti SC\", \"WenQuanYi Micro Hei\", sans-serif",
+        "微软雅黑, \"Microsoft YaHei\""
+      ]
+    },
+    "spacing": {},
+    "borderRadius": {
+      "50%": true,
+      "28px": true
+    },
+    "shadows": {}
+  }
+}

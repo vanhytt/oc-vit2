@@ -1,0 +1,29 @@
+{
+  "url": "https://www.hyq-hardwares.cn/",
+  "timestamp": "2026-08-31T10:04:42.737Z",
+  "viewports": [
+    "desktop",
+    "tablet",
+    "mobile"
+  ],
+  "screenshotsDir": "d:\\dev\\job\\web-oc-vit2\\oc-vit2\\docs\\design-references\\hyq-hardwares-cn-e8f3a1b2\\root-a4d2c9e1",
+  "researchDir": "d:\\dev\\job\\web-oc-vit2\\oc-vit2\\docs\\research\\hyq-hardwares-cn-e8f3a1b2\\root-a4d2c9e1",
+  "extractedFiles": [
+    "DESIGN_TOKENS.json",
+    "COMPONENTS.json",
+    "METADATA.json",
+    "source.html",
+    "desktop-top.png",
+    "desktop-middle.png",
+    "desktop-bottom.png",
+    "desktop-full.png",
+    "tablet-top.png",
+    "tablet-middle.png",
+    "tablet-bottom.png",
+    "tablet-full.png",
+    "mobile-top.png",
+    "mobile-middle.png",
+    "mobile-bottom.png",
+    "mobile-full.png"
+  ]
+}
